@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandlingExec", "ErrorHandlingExec\ErrorHandlingExec.csproj", "{D701A085-A91E-43A7-8BFA-CA891EF80ECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D701A085-A91E-43A7-8BFA-CA891EF80ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D701A085-A91E-43A7-8BFA-CA891EF80ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D701A085-A91E-43A7-8BFA-CA891EF80ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D701A085-A91E-43A7-8BFA-CA891EF80ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
